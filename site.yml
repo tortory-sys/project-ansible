@@ -1,0 +1,6 @@
+---
+- hosts: servers
+  tags: roletest
+  roles:
+  - /lhome/test1/roles/testing
+    

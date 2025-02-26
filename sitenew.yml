@@ -1,0 +1,8 @@
+---
+- hosts: servers
+  tags: roletest
+  roles:
+# This is  testing for newbranch
+#
+  - /lhome/test1/roles/testing
+    
